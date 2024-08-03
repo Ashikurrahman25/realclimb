@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f734641415ad454288ffd3ddf4cf8f47, type: 3}
+  m_Name: Levels List
+  m_EditorClassIdentifier: 
+  _levels:
+  - _levelName: Level 1
+    _levelId: 1
+    _sceneName: Level_0001
+    _canBeFoundInRandom: 1
+  - _levelName: Level 2
+    _levelId: 2
+    _sceneName: Level_0002
+    _canBeFoundInRandom: 1
+  - _levelName: Level 3
+    _levelId: 3
+    _sceneName: Level_0003
+    _canBeFoundInRandom: 1
+  - _levelName: Level 4
+    _levelId: 4
+    _sceneName: Level_0004
+    _canBeFoundInRandom: 1
+  - _levelName: Level 5
+    _levelId: 5
+    _sceneName: Level_0005
+    _canBeFoundInRandom: 1
+  - _levelName: Level 6
+    _levelId: 6
+    _sceneName: Level_0006
+    _canBeFoundInRandom: 1
+  - _levelName: Level 7
+    _levelId: 7
+    _sceneName: Level_0007
+    _canBeFoundInRandom: 1
+  - _levelName: Level 8
+    _levelId: 8
+    _sceneName: Level_0008
+    _canBeFoundInRandom: 1
+  - _levelName: Level 9
+    _levelId: 9
+    _sceneName: Level_0009
+    _canBeFoundInRandom: 1
+  - _levelName: Level 10
+    _levelId: 10
+    _sceneName: Level_0010
+    _canBeFoundInRandom: 1
+  - _levelName: Level 11
+    _levelId: 11
+    _sceneName: Level_0011
+    _canBeFoundInRandom: 1
+  - _levelName: Level 12
+    _levelId: 12
+    _sceneName: Level_0012
+    _canBeFoundInRandom: 1
+  - _levelName: Level 13
+    _levelId: 13
+    _sceneName: Level_0013
+    _canBeFoundInRandom: 1
+  - _levelName: Level 14
+    _levelId: 14
+    _sceneName: Level_0014
+    _canBeFoundInRandom: 1
+  - _levelName: Level 15
+    _levelId: 15
+    _sceneName: Level_0015
+    _canBeFoundInRandom: 1
