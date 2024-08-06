@@ -32,14 +32,14 @@ public class AdsController : MonoBehaviour
 
     #region Banner Ad Methods
 #if UNITY_IOS
-string bannerAdUnitId = "«iOS-ad-unit-ID»"; // Retrieve the ID from your account
+string bannerAdUnitId = "ï¿½iOS-ad-unit-IDï¿½"; // Retrieve the ID from your account
 #else // UNITY_ANDROID
-    string bannerAdUnitId = "5f4dc771684fc71e"; // Retrieve the ID from your account
+    string bannerAdUnitId = "1e88a7f1ea2ecd94"; // Retrieve the ID from your account
 #endif
 
     public void InitializeBannerAds()
     {
-        // Banners are automatically sized to 320×50 on phones and 728×90 on tablets
+        // Banners are automatically sized to 320ï¿½50 on phones and 728ï¿½90 on tablets
         // You may call the utility method MaxSdkUtils.isTablet() to help with view sizing adjustments
         MaxSdk.CreateBanner(bannerAdUnitId, MaxSdkBase.BannerPosition.BottomCenter);
 
@@ -80,9 +80,9 @@ string bannerAdUnitId = "«iOS-ad-unit-ID»"; // Retrieve the ID from your account
 
     #region Interstitial Ad Methods
 #if UNITY_IOS
-string adUnitId = "«iOS-ad-unit-ID»";
+string adUnitId = "ï¿½iOS-ad-unit-IDï¿½";
 #else // UNITY_ANDROID
-    string adUnitId = "13ec497ad9a5ccf1";
+    string adUnitId = "657c247dce09325a";
 #endif
 
     int retryAttempt;
@@ -160,9 +160,9 @@ string adUnitId = "«iOS-ad-unit-ID»";
     #region Rewarded Ad Methods
 
 #if UNITY_IOS
-string adUnitId = "«iOS-ad-unit-ID»";
+string adUnitId = "ï¿½iOS-ad-unit-IDï¿½";
 #else // UNITY_ANDROID
-    string adUnitIdReward = "694b942eb667e159";
+    string adUnitIdReward = "5928947f378365f3";
 #endif
 
     int retryAttemptRd;

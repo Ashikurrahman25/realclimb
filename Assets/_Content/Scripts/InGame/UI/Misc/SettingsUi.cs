@@ -31,12 +31,12 @@ namespace _Content.InGame.UI.Misc
 
 		public void ShowPrivacyPolicy()
 		{
-			Application.OpenURL("https://mountainhero24.blogspot.com/p/privacy-policy.html");
+			Application.OpenURL("https://climbmaster.blogspot.com/p/privacy-policy.html");
 		}
 
         public void ShowTermsConditiony()
         {
-            Application.OpenURL("https://mountainhero24.blogspot.com/p/terms-conditions.html");
+            Application.OpenURL("https://climbmaster.blogspot.com/p/terms-conditions.html");
         }
 
         public void OnCloseButtonClick()
