@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "875398961805",
+    "firebase_url": "https://montainhero-default-rtdb.firebaseio.com",
+    "project_id": "montainhero",
+    "storage_bucket": "montainhero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875398961805:android:544470a37f8d28d2ec20c4",
+        "android_client_info": {
+          "package_name": "com.MasterGames.ClimbMaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvTKVTFAWwNJlDM4CohFfCnJQhUx4mbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
