@@ -261,8 +261,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: al.keystore'
-  AndroidKeyaliasName: mountain_hero
+  AndroidKeystoreName: '{inproject}: alamin.keystore'
+  AndroidKeyaliasName: climb_master
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
